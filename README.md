@@ -1,5 +1,5 @@
-LSPDFR Plugin Development
-Welcome to the LSPDFR Plugin Development repository! This repository contains plugins and scripts for LSPDFR (Los Santos Police Department First Response), a modification for the Grand Theft Auto V game. The plugins and scripts here are written in C# and may require knowledge of code decompiling and reverse engineering LSPDFR mods/scripts.
+LSPDFR Decompiled Plugins
+Welcome to the LSPDFR Decompiled Plugins repository! This repository contains plugins and scripts for LSPDFR (Los Santos Police Department First Response), a modification for the Grand Theft Auto V game. The plugins and scripts here are written in C# and may require knowledge of code decompiling and reverse engineering LSPDFR mods/scripts.
 
 Repository Structure
 This repository is structured to make it easy to find what you need. Here's what you'll find:
