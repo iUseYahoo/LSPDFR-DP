@@ -1,3 +1,5 @@
+[Join the Discord!](https://discord.gg/gV6ky9VW4Z)
+
 LSPDFR Decompiled Plugins
 Welcome to the LSPDFR Decompiled Plugins repository! This repository contains plugins and scripts for LSPDFR (Los Santos Police Department First Response), a modification for the Grand Theft Auto V game. The plugins and scripts here are written in C# and may require knowledge of code decompiling and reverse engineering LSPDFR mods/scripts.
 
