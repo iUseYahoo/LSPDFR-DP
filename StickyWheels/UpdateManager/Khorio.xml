@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlugin xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Plugin>
+    <name>S.W.A.T. Callouts</name>
+    <fileID>11485</fileID>
+    <url>http://www.lcpdfr.com/files/file/11485-swat-callouts/</url>
+    <author>Khorio</author>
+    <filename>Swat Callouts.dll</filename>
+    <isLSPDFR>true</isLSPDFR>
+  </Plugin>
+  <Plugin>
+    <name>Rednecks!</name>
+    <fileID>12526</fileID>    
+	<url>http://www.lcpdfr.com/files/file/12526-rednecks/</url>
+    <author>Khorio</author>
+    <filename>Rednecks!.dll</filename>
+    <isLSPDFR>true</isLSPDFR>
+  </Plugin>
+  <Plugin>
+    <name>Automatic Roadblocks</name>
+    <fileID>13030</fileID>    
+	<url>http://www.lcpdfr.com/files/file/13030-automatic-roadblocks/</url>
+    <author>Khorio</author>
+    <filename>Automatic Roadblocks.dll</filename>
+    <isLSPDFR>true</isLSPDFR>
+  </Plugin>  
+  <Plugin>
+    <name>Sticky Wheels</name>
+    <fileID>13022</fileID>    
+	<url>http://www.lcpdfr.com/files/file/13022-stickywheels/</url>
+    <author>Khorio</author>
+    <filename>StickyWheels.dll</filename>
+    <isLSPDFR>false</isLSPDFR>
+  </Plugin>
+    <Plugin>
+    <name>KTFDO</name>
+    <fileID>13021</fileID>    
+	<url>http://www.lcpdfr.com/files/file/13021-ktfdo-keep-the-f-door-open/</url>
+    <author>Khorio</author>
+    <filename>KTFDO.dll</filename>
+    <isLSPDFR>false</isLSPDFR>
+  </Plugin>
+</ArrayOfPlugin>
