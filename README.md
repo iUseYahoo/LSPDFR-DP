@@ -4,7 +4,7 @@ Welcome to the LSPDFR Plugin Development repository! This repository contains pl
 Repository Structure
 This repository is structured to make it easy to find what you need. Here's what you'll find:
 
-/<plugin names>/ inside you'll find the original files the code came from and the code files for the .DLL inside.
+/plugin name/ inside you will find a .DLL which is the plugin and .CS files which is the source code.
 
 Contributing
 Contributions to this repository are welcome! If you'd like to contribute a new plugin or script, please follow these steps:
